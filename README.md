@@ -25,9 +25,6 @@ This project presents an interactive Power BI dashboard that analyzes Netflix's 
 
 ---
 
-## 📷 Dashboard Preview
-
-![Netflix Dashboard](./a8c27ea6-e44d-4e1b-9517-3aebf100d513.png)
 
 ---
 
@@ -38,8 +35,3 @@ This project presents an interactive Power BI dashboard that analyzes Netflix's 
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/netflix-powerbi-dashboard.git
